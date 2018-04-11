@@ -1,17 +1,39 @@
 <pre>
-PIP: 0001
-Title: PIP Template
-Author: Part-Linux <keepitup@mypeople.sup>
-Status: Active
-Created: 2018-03-13
+PIP: 0002
+Title: Particl Advocacy Program
+Author: Cryptoguard <cryptoguard@particl.io>
+Status: Pending
+Created: 2018-04-10
 </pre>
 
 ==Abstract==
-
-Proposal for modifying the inflation schedule and keeping it at a fixed 5% rate. 
+This PIP proposes to use 10,000 PARTs out of the Community Fund (https://www.kialo.com/invited?token=005-7c0b9545-ef61-4b50-a65d-205fe37fc65e) to build up a Particl advocacy program using XXX, a customer advocacy platform. 
 
 ==Scope==
-Currently, our inflation/staking interest rate starts at 5%, but declines 1% every year until it reaches 2% at which point it will stay fixed at this value. This proposal proposes to change our scheduled inflation and staking interest rate to a fixed yearly rate of 5% and cancel the scheduled declined.
+It is currently hard to mobilize our community in an efficient fashion. Not only are we spread over many different social media platforms, we currently have no efficient way to reward small tasks/contributions (Twitter, Reddit, blog, steemit, Youtube, Upvotes, etc).
+
+This PIP proposes using XXX, a consumer advocacy platform that rewards users in credits, points and badges for any kind of tasks set up by the page administrators. Particl "advocates" are people who register to Particl's XXX page and complete the various tasks (daily) to help Particl be more known through word-of-mouth and organic and incentivized community marketing. Interesting use cases for Particl include, but are not limited to:  
+
+===Credits, Rewards, Points & Badges===
+Each task completed on XXX rewards advocates with a certain amount of credits, points and potentially badges. Credits are accumulate until an advocate holds enough of them and can exchange them for various prizes. These prizes are entirely up to the admins, and in our case would probably be packs containing X PARTs or Particl merch. That means that even very simple tasks like retweeting a tweet, upvoting a Particl reddit post, or commenting a certain Youtube video can earn you real PARTs.
+
+Points, on the other hand, are accumulated by the advocates and serve to show progression and the impact a given advocate has on Particl's community marketing. Advocates "level up" once they reach a certain amounts of points and climb a community-wide leaderboard. Each levels can have its own set of tasks, privileges or contests. This can all be decided by the page's admins and is up to our creativity. This is basically the "gamification" of social media marketing, making it both fun and financially rewarding to contribute to Particl (even if the contribution may seem minimal, together we are stronger) and also strenghtening our community bond. 
+
+As for badges, they are earned when advocates complete the objective linked to a certain badges. They could be compared to "achievements" earned by video game players. Example of badges could include stuff like Twitter Warrior (100 PART-related tweets), Reddit Writer (25 PART related posts) Steemit Contributor (50 PART related steemit posts), or even stuff like Alpha Tester, Beta Tester, Bug Hunter, Github Contributor, and etc. Again, as the XXX platform is extremely flexible, we can create any badge we want (can even design how they look ourselves) and again gamifies and makes more fun contributing for Particl.
+
+===Tasks===
+Admins can set up a series of tasks (daily, weekly, whatever) that can then be tackled and completed by advocates. Tasks can be as small as upvoting a Reddit post, commenting in a Youtube video, retweeting and tagging a crypto personality, or they can be more complete like writing a big article/blog post, make a video, be part of a podcast, etc. Once again, as mentioned above, the XXX is extremely flexible and only our creativity would be the limit as to what we can and cannot set as tasks. 
+
+Each tasks rewards advocates a certain amount of points, credits and perhaps badges once they are completed. 
+
+Tasks would be a wonderful way to keep ourselves organized as a community and really act as if we were one entity rather than being many individuals acting alone to promote PART. We can also be more creative and use these to set up meetups, conferences, or big undertakings. 
+
+===Contests===
+The way we currently do contests is very limited. We basically do random draws among our RTs and reward a lucky tweeter with a sum of PARTs. While okay to get more retweets on a Particl tweets, it is very limited and doesn't allow us to leverage our entire community, some of them not even being on Twitter. 
+
+How we can do contests on XXX is very interesting. We can do random retweets just like we did before, but can also make it much more targeted. One useful combination is with badges and levels. For example, we could decide to do a contest and pick 3 random winners who will win merch or 10 PARTs each. However, to participate in this fictional contest, you would be required to own an Alpha Tester badge (or perhaps a Bug Hunter, or Reddit Writer badge, again this is up to the admins to figure out). The rule could also be to be  an advocate of a certain level rather than being about badges. 
+
+This makes contests much more inclusive as we are not forced to do it about Twitter retweets but can basically make it about anything. It also makes people want to contribute more so they earn more points/levels and also more badges so that they have more chances to be able to participate in any of our targeted contests. 
 
 ==Rationale==
 * Reducing the inflation rate could potentially reduce the number of coins available for trading which is already low and a bit of a problem (that number is likely to be reduced even more once the marketplace is live, so the staking rewards put up for trading could help counter balance that supply shock issue)
