@@ -16,7 +16,7 @@ We intend PIPs to be the primary mechanisms for proposing new features, for coll
 |-
 |[[./pip-0001/PIP-0001.mediawiki|0001]]||Inflation & Staking Interest Rate Modification||Active
 |-
-|[[./pip-0002/PIP-0002.mediawiki|0001]]||Particl Advocacy Program||Pending
+|[[./pip-0002/PIP-0002.mediawiki|0002]]||Particl Advocacy Program||Pending
 |}
 
 ==Acknowledgements==
