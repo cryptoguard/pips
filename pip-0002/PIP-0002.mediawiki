@@ -22,7 +22,7 @@ Points, on the other hand, are accumulated by the advocates and serve to show pr
 As for badges, they are earned when advocates complete the objective linked to a certain badges. They could be compared to "achievements" earned by video game players. Example of badges could include stuff like Twitter Warrior (100 PART-related tweets), Reddit Writer (25 PART related posts) Steemit Contributor (50 PART related steemit posts), or even stuff like Alpha Tester, Beta Tester, Bug Hunter, Github Contributor, and etc. Again, as the XXX platform is extremely flexible, we can create any badge we want (can even design how they look ourselves) and again gamifies and makes more fun contributing for Particl.
 
 ===Tasks===
-Admins can set up a series of tasks (daily, weekly, whatever) that can then be tackled and completed by advocates. Tasks can be as small as upvoting a Reddit post, commenting in a Youtube video, retweeting and tagging a crypto personality, or they can be more complete like writing a big article/blog post, make a video, be part of a podcast, etc. Once again, as mentioned above, the XXX is extremely flexible and only our creativity would be the limit as to what we can and cannot set as tasks. 
+Admins can set up a series of tasks (daily, weekly, whatever) that can then be tackled and completed by advocates. Tasks can be as small as upvoting a Reddit post, commenting in a Youtube video, retweeting and tagging a crypto personality, or they can be more complete like writing a big article/blog post, make a video, be part of a podcast, or participate in a Particl Kialo discussion. Once again, as mentioned above, the XXX is extremely flexible and only our creativity would be the limit as to what we can and cannot set as tasks. 
 
 Each tasks rewards advocates a certain amount of points, credits and perhaps badges once they are completed. 
 
@@ -35,9 +35,12 @@ How we can do contests on XXX is very interesting. We can do random retweets jus
 
 This makes contests much more inclusive as we are not forced to do it about Twitter retweets but can basically make it about anything. It also makes people want to contribute more so they earn more points/levels and also more badges so that they have more chances to be able to participate in any of our targeted contests. 
 
-==Rationale==
-* Reducing the inflation rate could potentially reduce the number of coins available for trading which is already low and a bit of a problem (that number is likely to be reduced even more once the marketplace is live, so the staking rewards put up for trading could help counter balance that supply shock issue)
-* Easier to explain and understand
-* Easier to budget and plan ahead
-* More profitable for stakers over a long period of time
-* Gives stakers more funds to passively donate and support the project once we get a "side staking"-like staking mechanism later on (https://pbs.twimg.com/media/C-6287aXkAAGrMY.jpg)
+==Rationale (How Would It Benefit Particl?)==
+* Will greatly enhance our community's engagement and desire to contribute
+* Allows any kind of contribution, big or small, be rewarded using credits (that can be exchanged for PARTs), points and badges.
+* Allows us to do ANY kind of contests using any of the parameters offered by this very flexible platform
+* Will make us much more organized and make the community act as one entity rather than being all spread out. The goal would be to create a social media army, a very well organized one. 
+* Useful communication tools are included in the platform so the community can organize itself from within the platform. Advocates can be polled, DM each others, request tasks, create threads, etc. 
+* This seems like a very good way to create a truly organic community movement around Particl, a Particl squad which would potentially prove more effective than even professional marketing (at least, more economical). 
+
+'' '''Note:''' This PIP proposes that 10,000 out of ~30,000 PARTs be used for this advocacy program. This is meant to be used as an approximation for the purpose of this PIP, the exact amount of PARTs allocated for this program would need to be decided by the community itself.''  
